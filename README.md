@@ -30,7 +30,11 @@ A fun and interactive Python project that lets you control any keyboard-based ga
 | `HandTrackingModule` | Detects hand landmarks & finger positions |
 
 ---
+# Demo
 
+<img src="output1.png" />
+
+---
 
 ## 🚀 How to Run
 
